@@ -174,8 +174,3 @@
 </footer>
 </body>
 </html>
-       padding-top: 25px;
-}
-.copyright{
-       text-align: center;
-}
